@@ -11,11 +11,11 @@
 * 각 장의 내용을 md 파일로 정리하여 업로드
 
 ## 목차
-* [Chapter 01. 자바스크립트의 좋은 점들](Chapter1. 자바스크립트의 좋은 점들.md)
-* [Chapter 02. 자바스크립트의 좋은 문법들](Chapter2. 자바스크립트의 좋은 문법들.md)
-* [Chapter 03. 객체](Chapter3. 객체.md)
-* [Chapter 04. 함수](Chapter4. 함수.md)
-* [Chapter 05. 상속](Chapter5. 상속.md)
+* [Chapter 01. 자바스크립트의 좋은 점들](Chapter1._자바스크립트의_좋은_점들.md)
+* [Chapter 02. 자바스크립트의 좋은 문법들](Chapter2._자바스크립트의_좋은_문법들.md)
+* [Chapter 03. 객체](Chapter3._객체.md)
+* [Chapter 04. 함수](Chapter4._함수.md)
+* [Chapter 05. 상속](Chapter5._상속.md)
 * Chapter 06. 배열
 * Chapter 07. 정규 표현식
 * Chapter 08. 메소드
