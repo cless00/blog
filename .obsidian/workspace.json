@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "fullstack/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "fullstack/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "fullstack/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,8 +183,9 @@
   "lastOpenFiles": [
     "fullstack/README.md",
     "README.md",
-    "javascript/README.md",
     "fullstack/MERN stack.md",
+    "Untitled.md",
+    "javascript/README.md",
     "java/java.md",
     "fullstack"
   ]
