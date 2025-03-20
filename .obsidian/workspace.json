@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Chapter6._배열.md",
+                "file": "javascript/Workshop_20160707.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter6._배열"
+              "title": "Workshop_20160707"
             }
           }
         ]
@@ -183,15 +183,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "javascript/README.md",
-    "javascript/Chapter6._배열.md",
+    "README.md",
     "javascript/Workshop_20160707.md",
+    "javascript/Chapter6._배열.md",
+    "javascript/README.md",
     "javascript/Chapter5._상속.md",
     "javascript/Chapter4._함수.md",
     "javascript/Chapter3._객체.md",
     "javascript/Chapter2._자바스크립트의_좋은_문법들.md",
     "javascript/Chapter1._자바스크립트의_좋은_점들.md",
-    "README.md",
     "tools/design_tools.md",
     "tools/README.md",
     "tools/meeting_tools.md",
