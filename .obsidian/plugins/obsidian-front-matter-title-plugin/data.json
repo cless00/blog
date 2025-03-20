@@ -35,7 +35,7 @@
       "enabled": true,
       "sort": false,
       "templates": {
-        "main": "",
+        "main": "{{#heading}} ({{_basename}})",
         "fallback": ""
       }
     },
