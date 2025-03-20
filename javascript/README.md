@@ -16,7 +16,7 @@
 * [Chapter 03. 객체](Chapter3._객체.md)
 * [Chapter 04. 함수](Chapter4._함수.md)
 * [Chapter 05. 상속](Chapter5._상속.md)
-* Chapter 06. 배열
+* [Chapter 06. 배열](Chapter6._배열)
 * Chapter 07. 정규 표현식
 * Chapter 08. 메소드
 * Chapter 09. 스타일

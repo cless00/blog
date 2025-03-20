@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Workshop_20160707.md",
+                "file": "javascript/Chapter6._배열.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workshop_20160707"
+              "title": "Chapter6._배열"
             }
           }
         ]
@@ -185,6 +185,7 @@
   "lastOpenFiles": [
     "javascript/README.md",
     "javascript/Chapter6._배열.md",
+    "javascript/Workshop_20160707.md",
     "javascript/Chapter5._상속.md",
     "javascript/Chapter4._함수.md",
     "javascript/Chapter3._객체.md",
@@ -199,7 +200,6 @@
     "fullstack/MERN_stack.md",
     "udemy",
     "fullstack/README.md",
-    "javascript/Workshop_20160707.md",
     "Untitled.canvas",
     "수영/수영.md",
     "수영",
