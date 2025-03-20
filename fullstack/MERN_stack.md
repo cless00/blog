@@ -1,5 +1,4 @@
 # MERN stack
-MongoDB + Express.js + React + Node.js
 
 ### MERN 스택이란?
 MERN은 웹 애플리케이션 개발에 사용되는 4가지 핵심 기술의 조합이다.
@@ -87,3 +86,5 @@ API 층 (Express + Node.js)
 - Postman/Insomnia
 - React Developer Tools
 - Redux DevTools
+
+## [연습하기](practice_mern.md)
