@@ -1,5 +1,14 @@
 # 회의 관련 툴
-## Tactiq - https://app.tactiq.io/
+## Tactiq
+
+```cardlink
+url: https://app.tactiq.io/
+title: "Meeting notes powered by transcription"
+description: "Bring structure to your meetings and save time using speech to text notes. Turn the team's conversation into meaningful notes. Easy to use workspace provides everything you need for productive meetings: AI speech to text transcription, real-time editor, agenda timeboxing and action items."
+host: app.tactiq.io
+favicon: https://app.tactiq.io/favicon-32x32.png
+image: https://tactiq.io/logo1200.png
+```
 
 Google meet, Zoom, Teams 등 화상 회의를 녹음하고 요약 할 수 있는 서비스 이다.
 크롬 확장 프로그램을 설치해서 사용 한다.

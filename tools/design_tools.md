@@ -1,6 +1,15 @@
 ## 디자인 툴
 
-## Whimsical - https://whimsical.com/
+## Whimsical
+
+```cardlink
+url: https://whimsical.com/
+title: "Whimsical - Unite teams, tasks, and tools in one place"
+description: "From brainstorm to launch—plan, create, manage, and communicate in one workspace. Experience the difference of calm, focused work for you and your team."
+host: whimsical.com
+image: https://whimsical.com/_next_public/cards/default_2025-02-06.png
+```
+
 플로우 차트, 마인드 맵 등을 만들 수 있는 툴이다.
 AI를 활용하여 생성 기능도 지원 한다.
 
@@ -93,7 +102,17 @@ AI를 활용하여 생성 기능도 지원 한다.
 - 피드백 루프 구축
 
 
-## ColorMagic - https://colormagic.app/
+## ColorMagic
+
+```cardlink
+url: https://colormagic.app/
+title: "AI Color Palette Generator - ColorMagic"
+description: "Create beautiful color palettes with our free AI color palette generator. Generate color palettes from names, images, text, or hex codes in seconds!"
+host: colormagic.app
+favicon: https://colormagic.app/img/favicon.ico
+image: https://colormagic.app/img/og.png
+```
+
 키워드를 기반으로 컬러 팔레트를 생성해 주는 사이트 이다.
 
 ### 주요 기능

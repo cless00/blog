@@ -1,5 +1,13 @@
 # 가이드 제작 툴
-## Guidde - https://www.guidde.com/
+## Guidde
+
+```cardlink
+url: https://www.guidde.com/
+title: "guidde・Magically create video documentation with AI"
+description: "Guidde lets you capture instant step-by-step videos and documents for anyone to create."
+host: www.guidde.com
+image: https://cdn.prod.website-files.com/610004329b339defd1cf0578/644a2768744d3189090a0dc3_share-img.jpg
+```
 
 신규 입사자나 신규 툴 도입시 가이드 영상을 제작 할 수 있는 툴이다.
 영상을 녹화하면 자동으로 스텝별 이미지와 설명을 작성해 준다.
