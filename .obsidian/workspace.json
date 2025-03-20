@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8cdea0fec76d538",
+        "id": "2093d7bb61563ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "843177370471ac93",
+            "id": "66f47d967d0e4068",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,19 +180,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "843177370471ac93",
+  "active": "66f47d967d0e4068",
   "lastOpenFiles": [
-    "fullstack/MERN_stack.md",
+    "tools/README.md",
+    "README.md",
     "udemy/practice_mern.md",
+    "javascript/Chapter6._배열.md",
+    "javascript/README.md",
+    "tools/meeting_tools.md",
+    "tools/guide_tools.md",
+    "tools/design_tools.md",
+    "fullstack/MERN_stack.md",
     "udemy",
     "fullstack/README.md",
-    "README.md",
-    "tools/README.md",
     "javascript/Workshop_20160707.md",
-    "javascript/README.md",
-    "tools/design_tools.md",
-    "tools/guide_tools.md",
-    "tools/meeting_tools.md",
     "Untitled.canvas",
     "수영/수영.md",
     "수영",

@@ -1,7 +1,7 @@
 # 회의 관련 툴
 
 ## 클로바 노트
-[클로바 노트](https://clovanote.naver.com/)
+https://clovanote.naver.com/
 
 네이버에서 제공하는 AI 기반 회의 녹음/기록 서비스이다.
 모바일 앱과 웹에서 사용할 수 있다.
