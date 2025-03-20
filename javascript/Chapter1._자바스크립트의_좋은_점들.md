@@ -36,5 +36,4 @@ Function.prototype.method = function (name, func) {
 };
 ```
 
----
-[돌아가기 - README.md](README.md)
+

@@ -283,5 +283,4 @@ Function.method('curry', function () {
 * 불필요한 작업을 피하기 위해 이전에 연산한 결과를 저장하고 있는 객체를 사용하는 것
 * 클로저를 통해 이전 연산 결과를 저장
 
----
-[돌아가기 - README.md](README.md)
+

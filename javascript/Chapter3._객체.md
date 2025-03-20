@@ -226,5 +226,4 @@ another_stooge.nickname   // 'Curly'
   - 또한 `MYAPP.stooge`가 명시적으로 전역변수라는 것을 나타내기 때문에 프로그램의 가동성이 향상됨
   - `closure`를 사용하여 전역변수 사용을 줄일 수도 있음 (4장에서 설명)
 
----
-[돌아가기 - README.md](README.md)
+
