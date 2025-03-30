@@ -123,10 +123,14 @@
             "id": "d67fa815f11c503a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "basic/algorithm/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -203,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "basic/algorithm/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -289,22 +294,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "24663643c9af0d3a",
+  "active": "d67fa815f11c503a",
   "lastOpenFiles": [
+    "README.md",
+    "basic/\balgorithm/README.md",
+    "basic/\balgorithm",
+    "basic/algorithm/README.md",
+    "basic/algorithm/sort.md",
     "basic/data_structure/README.md",
+    "javascript/Chapter2._자바스크립트의_좋은_문법들.md",
     "basic/data_structure/hash_map.md",
     "basic/data_structure/tree.md",
     "basic/data_structure/stack.md",
     "basic/data_structure/queue.md",
-    "basic/algorithm/README.md",
-    "basic/algorithm/sort.md",
     "basic/data_structure/graph.md",
     "basic/data_structure/hash_table.md",
     "good_practice/README.md",
     "basic/data_structure",
     "basic/algorithm",
     "basic",
-    "README.md",
     "Untitled.canvas",
     "good_practice/use_assert.md",
     "good_practice/good_function_naming.md",
@@ -322,11 +330,7 @@
     "javascript/Chapter6._배열.md",
     "javascript/Chapter5._상속.md",
     "javascript/Chapter4._함수.md",
-    "javascript/Chapter3._객체.md",
-    "javascript/Chapter2._자바스크립트의_좋은_문법들.md",
-    "javascript/Chapter1._자바스크립트의_좋은_점들.md",
     "udemy",
-    "수영",
-    "필라테스"
+    "수영"
   ]
 }
