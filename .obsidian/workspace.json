@@ -178,8 +178,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "330288a69f1b12ea",
+  "active": "ed99f9f6a40f2f4b",
   "lastOpenFiles": [
+    "Untitled.md",
     "basic/data_structure/hash_map.md",
     "daily_notes/2025-04-03.md",
     "daily_notes",
@@ -215,7 +216,6 @@
     "Excalidraw",
     "javascript/README.md",
     "javascript/Workshop_20160707.md",
-    "javascript/Chapter6._배열.md",
-    "javascript/Chapter5._상속.md"
+    "javascript/Chapter6._배열.md"
   ]
 }
