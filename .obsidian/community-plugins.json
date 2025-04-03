@@ -6,5 +6,7 @@
   "auto-card-link",
   "graph-banner",
   "homepage",
-  "dataview"
+  "dataview",
+  "templater-obsidian",
+  "obsidian-tasks-plugin"
 ]

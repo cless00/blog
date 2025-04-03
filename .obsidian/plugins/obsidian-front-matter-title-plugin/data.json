@@ -9,7 +9,9 @@
   "rules": {
     "paths": {
       "mode": "black",
-      "values": []
+      "values": [
+        "templates"
+      ]
     },
     "delimiter": {
       "enabled": false,
@@ -35,7 +37,7 @@
       "enabled": true,
       "sort": false,
       "templates": {
-        "main": "{{#heading}} ({{_basename}})",
+        "main": "({{_basename}}) {{#heading}}",
         "fallback": ""
       }
     },

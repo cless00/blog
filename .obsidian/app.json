@@ -2,7 +2,7 @@
   "useMarkdownLinks": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./"
 }
