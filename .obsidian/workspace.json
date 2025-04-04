@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tech/Puppeteer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Puppeteer"
             }
           }
         ]
@@ -180,21 +184,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "javascript/Chapter1._자바스크립트의_좋은_점들.md",
+    "javascript/README.md",
+    "README.md",
+    "tech/m3u8.md",
     "tech/Zapier.md",
     "tech/Beanstalk.md",
     "tech/Kuma.md",
     "tech/Mailchimp.md",
     "tech/Puppeteer.md",
     "tech",
-    "javascript/README.md",
-    "javascript/Chapter1._자바스크립트의_좋은_점들.md",
     "basic/data_structure/hash_map.md",
     "daily_notes/2025-04-03.md",
     "daily_notes",
     "basic/algorithm/README.md",
     "templates/daily_note_template.md",
     "templates",
-    "README.md",
     "basic/\balgorithm/README.md",
     "basic/\balgorithm",
     "basic/algorithm/sort.md",
@@ -215,7 +220,6 @@
     "good_practice",
     "tech",
     "ai/lm_studio.md",
-    "ai/README.md",
     "ai"
   ]
 }
