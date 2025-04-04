@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a6267aa290600ca",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "330288a69f1b12ea",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -178,9 +178,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed99f9f6a40f2f4b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "tech/Zapier.md",
+    "tech/Beanstalk.md",
+    "tech/Kuma.md",
+    "tech/Mailchimp.md",
+    "tech/Puppeteer.md",
+    "tech",
+    "javascript/README.md",
+    "javascript/Chapter1._자바스크립트의_좋은_점들.md",
     "basic/data_structure/hash_map.md",
     "daily_notes/2025-04-03.md",
     "daily_notes",
@@ -209,13 +216,6 @@
     "tech",
     "ai/lm_studio.md",
     "ai/README.md",
-    "udemy/practice_mern.md",
-    "ai/ml_studio.md",
-    "ai",
-    "Excalidraw/Drawing 2025-03-20 15.16.00.excalidraw.md",
-    "Excalidraw",
-    "javascript/README.md",
-    "javascript/Workshop_20160707.md",
-    "javascript/Chapter6._배열.md"
+    "ai"
   ]
 }
