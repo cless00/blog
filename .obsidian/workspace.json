@@ -13,15 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fullstack/MERN_stack.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MERN_stack"
+              "title": "README"
+            }
+          },
+          {
+            "id": "7477c21e1fe71c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "용현쌤.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "용현쌤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 243.5
   },
   "right": {
     "id": "493e6a2ee439042b",
@@ -181,10 +216,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7477c21e1fe71c39",
   "lastOpenFiles": [
-    "daily_notes/2025-04-12.md",
+    "tools/meeting_tools.md",
+    "용현쌤.md",
+    "README.md",
+    "ai/Untitled.md",
+    "ai/lm_studio.md",
+    "ai/README.md",
+    "good_practice/README.md",
+    "good_practice/use_assert.md",
+    "basic/data_structure/README.md",
+    "udemy/practice_mern.md",
     "fullstack/MERN_stack.md",
+    "daily_notes/2025-04-12.md",
     "daily_notes",
     "templates/daily_note_template.md",
     "tech/Beanstalk.md",
@@ -197,22 +242,12 @@
     "tech/Freshpaint.md",
     "tech",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
     "good_practice/good_function_naming.md",
-    "good_practice/README.md",
     "basic/data_structure/hash_map.md",
     "basic/data_structure/queue.md",
     "basic/data_structure/stack.md",
     "basic/data_structure/tree.md",
-    "basic/algorithm/sort.md",
-    "tools/design_tools.md",
-    "README.md",
-    "basic/algorithm/README.md",
-    "basic/\balgorithm/README.md",
     "basic/\balgorithm",
-    "basic/data_structure/README.md",
-    "javascript/Chapter2._자바스크립트의_좋은_문법들.md",
-    "basic/data_structure/graph.md",
     "basic/data_structure",
     "basic/algorithm",
     "basic",
