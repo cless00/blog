@@ -1,3 +1,4 @@
+#tech
 # Uptime Kuma
 
 ## Uptime Kuma란?

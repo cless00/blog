@@ -1,3 +1,4 @@
+#javascript
 # Chapter 5. 상속
 
 * 코드 재사용 관점에서 중요하다.

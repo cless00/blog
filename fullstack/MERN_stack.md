@@ -1,3 +1,4 @@
+#fullstack #mern
 # MERN stack
 
 ### MERN 스택이란?

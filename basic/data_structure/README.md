@@ -1,3 +1,4 @@
+#algorithm #datastructure
 # 자료구조
 
 - [queue](queue.md)

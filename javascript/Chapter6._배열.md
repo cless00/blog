@@ -1,3 +1,4 @@
+#javascript
 # Chapter 6. 배열
 
 * 

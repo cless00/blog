@@ -1,3 +1,4 @@
+#good-practice
 # Assert 사용
 
 > [!NOTE]

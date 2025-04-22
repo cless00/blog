@@ -1,3 +1,4 @@
+#ai #llm
 # LM Studio
 
 ```cardlink

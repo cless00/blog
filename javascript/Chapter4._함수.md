@@ -1,3 +1,4 @@
+#javascript
 # Chapter 4. 함수
 
 * 모듈화의 근간

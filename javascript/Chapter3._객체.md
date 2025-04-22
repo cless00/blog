@@ -1,3 +1,4 @@
+#javascript
 # Chapter 3. 객체
 
 * 단순한 데이터 타입: 숫자, 문자열, 불리언 (true/false), `null`, `undefined`

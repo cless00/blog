@@ -1,3 +1,4 @@
+#tech
 # AWS Elastic Beanstalk
 
 AWS Elastic Beanstalk은 웹 애플리케이션 및 서비스를 배포하고 확장하기 위한 AWS의 PaaS(Platform as a Service) 서비스입니다.

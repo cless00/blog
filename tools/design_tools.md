@@ -1,4 +1,5 @@
-## 디자인 툴
+#tool #design
+# 디자인 툴
 
 ## Whimsical
 

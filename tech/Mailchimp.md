@@ -1,3 +1,4 @@
+#tech
 # Mailchimp
 
 ## Mailchimp이란?

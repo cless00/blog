@@ -1,3 +1,4 @@
+#tech
 # Puppeteer
 Puppeteer는 Node.js 환경에서 Chrome 또는 Chromium 브라우저를 제어할 수 있는 헤드리스 브라우저 자동화 라이브러리입니다.
 

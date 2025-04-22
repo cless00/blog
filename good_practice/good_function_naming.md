@@ -1,3 +1,4 @@
+#good-practice
 # 좋은 함수명
 
 > [!NOTE]

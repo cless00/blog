@@ -1,3 +1,4 @@
+#javascript
 # Chapter 2. 자바스크립트의 좋은 문법들
 
 ## 1. 공백(Whitespace)
