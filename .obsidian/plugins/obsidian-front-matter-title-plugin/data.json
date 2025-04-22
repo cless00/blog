@@ -9,9 +9,7 @@
   "rules": {
     "paths": {
       "mode": "black",
-      "values": [
-        "templates"
-      ]
+      "values": []
     },
     "delimiter": {
       "enabled": false,
