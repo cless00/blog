@@ -1,3 +1,6 @@
+---
+icon: LiHome
+---
 # Home - 정리 창고
 
 * [Javascript 핵심가이드](javascript/README.md)
