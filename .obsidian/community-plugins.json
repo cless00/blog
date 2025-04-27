@@ -8,5 +8,6 @@
   "homepage",
   "dataview",
   "templater-obsidian",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-tasks-plugin"
 ]
